@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-/* 2-3. ¿¹Á¦ */
+/* 2-3.*/
 int main2(void)
 {
 	printf("Be happy\n");
