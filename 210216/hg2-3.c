@@ -2,7 +2,7 @@
 
 
 /* 2-3.*/
-int main2(void)
+int main(void)
 {
 	printf("Be happy\n"); // "Be happy" 출력하고 줄바꿈(\n)
 	printf("12345678901234567890\n"); // 화면에 열 번호 출력하고 줄바꿈(\n)
